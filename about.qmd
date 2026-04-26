@@ -63,16 +63,6 @@ Examples include:
 - reporting functions such as soil health cards,
 - and supporting digital layers that provide spatial context.
 
-## What the toolbox is not
-
-The toolbox should not be understood as:
-
-- a single handheld instrument,
-- a single laboratory protocol,
-- a stand-alone advisory engine,
-- or only a map platform.
-
-Instead, it is a **modular environment**. Users can combine different components depending on their needs, scale of work, and available resources.
 
 ## How does the supporting data layer fit in?
 

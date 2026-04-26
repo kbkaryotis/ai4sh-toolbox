@@ -3,7 +3,7 @@ title: "AI4SoilHealth Toolbox"
 page-layout: full
 ---
 
-::: {.hero}
+:::: {.hero}
 ![](images/logo-ai4sh-wordmark.png){width="280" fig-alt="AI4SoilHealth wordmark"}
 
 # A practical toolbox for soil health assessment and monitoring
@@ -11,7 +11,7 @@ page-layout: full
 ::: {.lead}
 The AI4SoilHealth Toolbox brings together field methods, laboratory approaches, digital tools, and supporting data services to help users assess soil health in a practical and structured way.
 :::
-:::
+::::
 
 <div class="logo-row">
   <img src="images/logo-ai4sh-icon.png" alt="AI4SoilHealth icon logo">
@@ -22,31 +22,35 @@ The AI4SoilHealth Toolbox brings together field methods, laboratory approaches, 
 
 ## What the toolbox helps users do
 
-::: {.kpi-grid}
+:::: {.kpi-grid}
 ::: {.kpi}
-**Measure relevant soil variables**  
-Use a range of methods to assess soil properties linked to salinity, soil organic carbon, structure, nutrient status, water behaviour, and biodiversity.
+**Assess key soil health descriptors**  
+Use field, laboratory and digital tools to assess soil health descriptors related to the physical, chemical and biological condition of soil, including salinisation, soil organic carbon, structure, nutrient status, water regulation, and biodiversity.
 :::
+
 ::: {.kpi}
 **Combine field, lab, and digital information**  
 Move from observations and measurements to mapped information, records, and user-friendly outputs.
 :::
+
 ::: {.kpi}
 **Choose methods that fit the situation**  
 Select between rapid field screening, laboratory approaches, and digital services depending on the assessment need.
 :::
+
 ::: {.kpi}
 **Support interpretation and communication**  
 Use the toolbox to understand soil condition, identify possible constraints, and communicate results more clearly.
 :::
-:::
+::::
 
 ## Part of the wider AI4SoilHealth project
 
-AI4SoilHealth is a European project focused on improving how soil health is measured, monitored, and understood. Public-facing project pages describe its aim as helping farmers and land managers with new tools to measure soil health, including approaches that do not always require conventional laboratory workflows, while also building digital services such as the Soil Health Data Cube. ([AI4SoilHealth project](https://ai4soilhealth.eu/))
+## Part of the AI4SoilHealth project
 
-This toolbox site focuses on the **user-facing toolbox**: the practical methods, digital functions, and supporting services that users may rely on when working on soil health assessment and monitoring.
+AI4SoilHealth is an EU-funded Horizon Europe project supporting the EU Soil Health Mission for 2030. It focuses on accelerating the collection and use of soil health information using AI technology to support the Soil Deal for Europe and the EU Soil Observatory.
 
+This site presents the user-facing AI4SoilHealth Toolbox: the field methods, laboratory approaches, digital tools, and supporting services developed to help users assess soil health descriptors, record observations, interpret results, and connect local measurements with wider spatial context through services such as the Soil Health Data Cube.
 ## What is inside the toolbox
 
 The toolbox combines four complementary elements:
@@ -76,45 +80,48 @@ The toolbox is designed for users who need practical ways to assess or monitor s
 
 ## Featured toolbox components
 
-<div class="tool-grid">
-  <div class="tool-card">
-    <img src="images/digital/app-home.png" alt="AI4SoilHealth app" class="card-thumb">
-    <h3><a href="tools/ai4sh-app.qmd">AI4SoilHealth App</a></h3>
-    <p>Main digital environment for recording, visualising, and organising soil health information.</p>
-  </div>
-  <div class="tool-card">
-    <img src="images/digital/shdc-cover.png" alt="Soil Health Data Cube" class="card-thumb">
-    <h3><a href="tools/data-cube.qmd">Soil Health Data Cube</a></h3>
-    <p>Supporting digital service that provides spatial context, layers, and wider environmental information.</p>
-  </div>
-  <div class="tool-card">
-    <img src="images/tools/digit-soil-reader.png" alt="SEAR or Digit Soil tool" class="card-thumb">
-    <h3><a href="tools/sear.qmd">SEAR / Digit Soil</a></h3>
-    <p>Biological assessment tool focused on extracellular enzyme activity and soil functioning.</p>
-  </div>
-</div>
+:::: {.tool-grid}
+::: {.tool-card}
+![](images/digital/app-home.jpg){.card-thumb alt="AI4SoilHealth App"}
+[AI4SoilHealth App](tools/ai4sh-app.qmd)
+Main digital environment for recording, viewing, and organising soil health information.
+:::
+
+::: {.tool-card}
+![](images/digital/shdc-cover.jpg){.card-thumb alt="Soil Health Data Cube"}
+[Soil Health Data Cube](tools/data-cube.qmd)
+Supporting digital service that provides spatial context, layers, and wider environmental information.
+:::
+
+::: {.tool-card}
+![](images/tools/digit-soil-reader.png){.card-thumb alt="SEAR / Digit Soil"}
+[SEAR / Digit Soil](tools/sear.qmd)
+Biological assessment tool focused on enzyme activity and soil functioning.
+:::
+::::
 
 ## Start exploring
 
-<div class="tool-grid">
-  <div class="tool-card">
-    <h3><a href="about.qmd">About the Toolbox</a></h3>
-    <p>Understand the scope, purpose, and structure of the AI4SoilHealth Toolbox.</p>
-  </div>
-  <div class="tool-card">
-    <h3><a href="tools/index.qmd">Browse the Tools</a></h3>
-    <p>Explore the individual tools, methods, and digital services included in the toolbox.</p>
-  </div>
-  <div class="tool-card">
-    <h3><a href="descriptors.qmd">Soil Health Descriptors</a></h3>
-    <p>Start from the soil issue you want to assess and see which tools can support it.</p>
-  </div>
-  <div class="tool-card">
-    <h3><a href="workflow.qmd">How it Works</a></h3>
-    <p>Follow a simple workflow from question to measurement, interpretation, and output.</p>
-  </div>
-</div>
-
-::: {.note-box}
-The AI4SoilHealth Toolbox is not a single instrument or a single app. It is a combination of methods, tools, and services that can be used together to support soil health assessment and monitoring.
+:::: {.tool-grid}
+::: {.tool-card}
+### [About the Toolbox](about.qmd)
+Understand the scope, purpose, and role of the AI4SoilHealth Toolbox.
 :::
+
+::: {.tool-card}
+### [Tools](tools/index.qmd)
+Explore the individual methods, tools, and digital services included in the toolbox.
+:::
+
+::: {.tool-card}
+### [Soil Health Descriptors](descriptors.qmd)
+Start from the soil issue or descriptor you want to assess.
+:::
+
+::: {.tool-card}
+### [How it Works](workflow.qmd)
+Follow a simple workflow from question to measurement, interpretation, and output.
+:::
+::::
+The AI4SoilHealth Toolbox is not a single instrument or a single app. It is a combination of methods, tools, and services that can be used together to support soil health assessment and monitoring.
+

@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "AI4SoilHealth Toolbox"
+  navbar:
+    logo: images/logo-ai4sh-icon.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About the Toolbox
+      - href: tools/index.qmd
+        text: Tools
+      - href: descriptors.qmd
+        text: Descriptors
+      - href: workflow.qmd
+        text: How it Works
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    include-after-body: includes/footer.html
+    grid:
+      sidebar-width: 260px
+      body-width: 1050px
+      margin-width: 210px

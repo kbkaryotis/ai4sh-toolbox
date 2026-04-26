@@ -2,97 +2,90 @@
 title: "Tools"
 ---
 
-The AI4SoilHealth Toolbox includes field methods, laboratory approaches, digital tools, and supporting services. Each tool contributes differently to soil health assessment.
+The AI4SoilHealth Toolbox combines field methods, laboratory approaches, digital tools, and supporting services for soil health assessment and monitoring.
 
-Some tools are suited to **rapid screening in the field**. Others provide **deeper laboratory analysis**. Digital tools help users **record, visualise, compare, and report** soil health information.
+Each toolbox component supports the assessment of one or more **soil health descriptors**, covering the **physical, chemical, and biological** dimensions of soil health. Some methods are designed for **rapid field screening**, others provide **deeper laboratory analysis**, and digital services help users **record, visualise, compare, and communicate** soil health information.
 
 ## Digital tools and services
 
-<div class="tool-grid">
-  <div class="tool-card">
-    <img src="../images/digital/app-home.png" alt="AI4SoilHealth app" class="card-thumb">
-    <h3><a href="ai4sh-app.qmd">AI4SoilHealth App</a></h3>
-    <p>Main user-facing environment for viewing, recording, and interacting with soil health information.</p>
-  </div>
-  <div class="tool-card">
-    <img src="../images/digital/shdc-cover.png" alt="Soil Health Data Cube" class="card-thumb">
-    <h3><a href="data-cube.qmd">Soil Health Data Cube</a></h3>
-    <p>Supporting digital service that provides contextual maps, layers, and background information.</p>
-  </div>
-</div>
+:::: {.tool-grid}
+::: {.tool-card}
+![](../images/digital/app-home.jpg){.card-thumb alt="AI4SoilHealth app"}
+[AI4SoilHealth App](ai4sh-app.qmd)
+Main user-facing environment for recording, viewing, and interacting with soil health information.
+:::
+
+::: {.tool-card}
+![](../images/digital/shdc-cover.jpg){.card-thumb alt="Soil Health Data Cube"}
+[Soil Health Data Cube](data-cube.qmd)
+Supporting digital service that provides contextual maps, spatial layers, and background information for soil health monitoring.
+:::
+::::
 
 ## Field tools and rapid assessment methods
 
-<div class="tool-grid">
-  <div class="tool-card">
-    <img src="../images/tools/toolbox-collage.png" alt="Soil spectroscopy" class="card-thumb">
-    <h3><a href="soil-spectroscopy.qmd">Soil Spectroscopy</a></h3>
-    <p>Rapid, non-destructive assessment of several physicochemical soil properties.</p>
-  </div>
-  <div class="tool-card">
-    <img src="../images/tools/toolbox-collage.png" alt="VESS" class="card-thumb">
-    <h3><a href="vess.qmd">VESS</a></h3>
-    <p>Visual evaluation of soil structure directly in the field.</p>
-  </div>
-  <div class="tool-card">
-    <img src="../images/tools/toolbox-collage.png" alt="Aggregate stability" class="card-thumb">
-    <h3><a href="aggregate-stability.qmd">Aggregate Stability</a></h3>
-    <p>Simple methods for assessing structural stability and slaking behaviour.</p>
-  </div>
-  <div class="tool-card">
-    <img src="../images/tools/infiltration-field.png" alt="Infiltration test" class="card-thumb">
-    <h3><a href="infiltration.qmd">Infiltration Test</a></h3>
-    <p>Field method to assess how water enters the soil and how the soil behaves hydraulically.</p>
-  </div>
-  <div class="tool-card">
-    <img src="../images/tools/toolbox-collage.png" alt="Salinity, pH and EC methods" class="card-thumb">
-    <h3><a href="salinity-ph-ec.qmd">Salinity / pH / EC Methods</a></h3>
-    <p>Rapid screening methods for salinity, acidity, and related chemical conditions.</p>
-  </div>
-  <div class="tool-card">
-    <img src="../images/tools/macrofauna-image.png" alt="Macrofauna observation" class="card-thumb">
-    <h3><a href="macrofauna.qmd">Macrofauna Observation</a></h3>
-    <p>Observation-based assessment of earthworms and other visible soil fauna.</p>
-  </div>
-</div>
+:::: {.tool-grid}
+::: {.tool-card}
+![](../images/tools/soil-spectroscopy.jpg){.card-thumb alt="Soil spectroscopy"}
+[Soil Spectroscopy](soil-spectroscopy.qmd)
+Rapid, non-destructive assessment method for screening key soil physicochemical properties in support of soil health monitoring.
+:::
+
+
+::: {.tool-card}
+![](../images/tools/infiltration-field.jpg){.card-thumb alt="Infiltration test"}
+[Infiltration Rate](infiltration.qmd)
+Field method used to assess water entry, infiltration behaviour, and related physical soil functioning.
+:::
+
+::: {.tool-card}
+![](../images/tools/salinity-ph-ec.jpg){.card-thumb alt="Salinity, pH and EC methods"}
+[Salinity / pH / EC Methods](salinity-ph-ec.qmd)
+Rapid screening methods for salinity, acidity, and related chemical soil conditions.
+:::
+
+::: {.tool-card}
+![](../images/tools/macrofauna-image.jpg){.card-thumb alt="Macrofauna observation"}
+[Macrofauna Observation](macrofauna.qmd)
+Observation-based assessment of earthworms and other visible soil fauna as indicators of soil biological condition.
+:::
+::::
 
 ## Laboratory and detailed assessment methods
 
-<div class="tool-grid">
-  <div class="tool-card">
-    <img src="../images/tools/record-sheet.png" alt="Standard laboratory analysis" class="card-thumb">
-    <h3><a href="lab-analysis.qmd">Standard Soil Laboratory Analysis</a></h3>
-    <p>Reference measurements for key soil physicochemical variables.</p>
-  </div>
-  <div class="tool-card">
-    <img src="../images/tools/record-sheet.png" alt="Bulk density" class="card-thumb">
-    <h3><a href="bulk-density.qmd">Bulk Density Sampling</a></h3>
-    <p>Sampling approach that supports structure, compaction, and stock-related assessment.</p>
-  </div>
-  <div class="tool-card">
-    <img src="../images/tools/digit-soil-reader.png" alt="SEAR or Digit Soil" class="card-thumb">
-    <h3><a href="sear.qmd">SEAR / Digit Soil</a></h3>
-    <p>Rapid measurement of extracellular enzyme activity linked to soil biological functioning.</p>
-  </div>
-  <div class="tool-card">
-    <img src="../images/tools/microbiometer-kit.png" alt="MicroBIOMETER" class="card-thumb">
-    <h3><a href="microbiometer.qmd">MicroBIOMETER</a></h3>
-    <p>Kit-based method for estimating microbial biomass and fungal/bacterial balance.</p>
-  </div>
-  <div class="tool-card">
-    <img src="../images/tools/toolbox-collage.png" alt="eDNA or metabarcoding" class="card-thumb">
-    <h3><a href="edna.qmd">eDNA / Metabarcoding</a></h3>
-    <p>DNA-based workflow for soil biodiversity and biological community assessment.</p>
-  </div>
-</div>
+:::: {.tool-grid}
+::: {.tool-card}
+![](../images/tools/Standard-soil-analysis.jpg){.card-thumb alt="Standard laboratory analysis"}
+[Standard Soil Laboratory Analysis](lab-analysis.qmd)
+Reference measurements for key soil physicochemical properties and supporting soil health descriptors.
+:::
 
-## How to use this catalogue
+::: {.tool-card}
+![](../images/tools/BD.jpg){.card-thumb alt="Bulk density"}
+[Bulk Density Sampling](bulk-density.qmd)
+Sampling approach supporting the assessment of structure, compaction, and stock-related interpretation.
+:::
 
-Each tool page explains:
+::: {.tool-card}
+![](../images/tools/digit-soil-reader.png){.card-thumb alt="SEAR or Digit Soil"}
+[Bio-Enzymatic Activity](sear.qmd)
+Measurement of extracellular enzyme activity linked to soil biological functioning and nutrient cycling.
+:::
 
-- what the tool is,
-- why a user would use it,
-- where it is used,
-- which target variables it addresses,
-- which soil health descriptors it supports,
-- and what kind of output a user can expect.
+::: {.tool-card}
+![](../images/tools/microbiometer-kit.png){.card-thumb alt="MicroBIOMETER"}
+[MicroBIOMETER](microbiometer.qmd)
+Kit-based method for estimating microbial biomass and fungal/bacterial balance.
+:::
+
+::: {.tool-card}
+![](../images/tools/edna-kit.jpg){.card-thumb alt="eDNA or metabarcoding"}
+[eDNA / Metabarcoding](edna.qmd)
+DNA-based workflow for soil biodiversity and biological community assessment.
+:::
+::::
+
+
+::: {.note-box}
+Start with the soil health descriptor or monitoring need, then identify the toolbox components that best match the assessment task.
+:::
