@@ -1,21 +1,98 @@
 ---
-title: "Tool Catalogue"
+title: "Tools"
 ---
 
-This catalogue presents the main toolbox components in end-user language. Each entry explains what the tool is, what it is mainly used for, and which soil-health variables or descriptor groups it can support.
+The AI4SoilHealth Toolbox includes field methods, laboratory approaches, digital tools, and supporting services. Each tool contributes differently to soil health assessment.
+
+Some tools are suited to **rapid screening in the field**. Others provide **deeper laboratory analysis**. Digital tools help users **record, visualise, compare, and report** soil health information.
+
+## Digital tools and services
 
 <div class="tool-grid">
-  <div class="tool-card"><h3><a href="ai4sh-app.qmd">AI4SoilHealth App</a></h3><p>Digital environment for viewing, storing, and interacting with soil-health information.</p></div>
-  <div class="tool-card"><h3><a href="soil-spectroscopy.qmd">Soil Spectroscopy</a></h3><p>Rapid, non-destructive estimation of several soil properties.</p></div>
-  <div class="tool-card"><h3><a href="lab-analysis.qmd">Standard Soil Laboratory Analysis</a></h3><p>Reference measurements for key physicochemical variables.</p></div>
-  <div class="tool-card"><h3><a href="bulk-density.qmd">Bulk Density Sampling</a></h3><p>Sampling approach to support structure and compaction-related assessment.</p></div>
-  <div class="tool-card"><h3><a href="vess.qmd">VESS</a></h3><p>Visual evaluation of soil structure in the field.</p></div>
-  <div class="tool-card"><h3><a href="aggregate-stability.qmd">Aggregate Stability</a></h3><p>Simple methods for assessing structural stability and slaking behaviour.</p></div>
-  <div class="tool-card"><h3><a href="infiltration.qmd">Infiltration Test</a></h3><p>Field method to assess water entry and related hydraulic behaviour.</p></div>
-  <div class="tool-card"><h3><a href="salinity-ph-ec.qmd">Salinity / pH / EC Methods</a></h3><p>Rapid assessment of chemical condition and salinity-related issues.</p></div>
-  <div class="tool-card"><h3><a href="sear.qmd">SEAR / Digit Soil</a></h3><p>Rapid assessment of extracellular enzymatic activity.</p></div>
-  <div class="tool-card"><h3><a href="microbiometer.qmd">MicroBIOMETER</a></h3><p>Kit-based view of microbial biomass and the fungal/bacterial balance.</p></div>
-  <div class="tool-card"><h3><a href="edna.qmd">eDNA / Metabarcoding</a></h3><p>Laboratory workflow for biodiversity and biological-community analysis.</p></div>
-  <div class="tool-card"><h3><a href="macrofauna.qmd">Macrofauna Observation</a></h3><p>Observation and image-based support for earthworms and soil fauna.</p></div>
-  <div class="tool-card"><h3><a href="data-cube.qmd">Supporting Data Layer</a></h3><p>Horizontal data and visualisation service that supports the toolbox.</p></div>
+  <div class="tool-card">
+    <img src="../images/digital/app-home.png" alt="AI4SoilHealth app" class="card-thumb">
+    <h3><a href="ai4sh-app.qmd">AI4SoilHealth App</a></h3>
+    <p>Main user-facing environment for viewing, recording, and interacting with soil health information.</p>
+  </div>
+  <div class="tool-card">
+    <img src="../images/digital/shdc-cover.png" alt="Soil Health Data Cube" class="card-thumb">
+    <h3><a href="data-cube.qmd">Soil Health Data Cube</a></h3>
+    <p>Supporting digital service that provides contextual maps, layers, and background information.</p>
+  </div>
 </div>
+
+## Field tools and rapid assessment methods
+
+<div class="tool-grid">
+  <div class="tool-card">
+    <img src="../images/tools/toolbox-collage.png" alt="Soil spectroscopy" class="card-thumb">
+    <h3><a href="soil-spectroscopy.qmd">Soil Spectroscopy</a></h3>
+    <p>Rapid, non-destructive assessment of several physicochemical soil properties.</p>
+  </div>
+  <div class="tool-card">
+    <img src="../images/tools/toolbox-collage.png" alt="VESS" class="card-thumb">
+    <h3><a href="vess.qmd">VESS</a></h3>
+    <p>Visual evaluation of soil structure directly in the field.</p>
+  </div>
+  <div class="tool-card">
+    <img src="../images/tools/toolbox-collage.png" alt="Aggregate stability" class="card-thumb">
+    <h3><a href="aggregate-stability.qmd">Aggregate Stability</a></h3>
+    <p>Simple methods for assessing structural stability and slaking behaviour.</p>
+  </div>
+  <div class="tool-card">
+    <img src="../images/tools/infiltration-field.png" alt="Infiltration test" class="card-thumb">
+    <h3><a href="infiltration.qmd">Infiltration Test</a></h3>
+    <p>Field method to assess how water enters the soil and how the soil behaves hydraulically.</p>
+  </div>
+  <div class="tool-card">
+    <img src="../images/tools/toolbox-collage.png" alt="Salinity, pH and EC methods" class="card-thumb">
+    <h3><a href="salinity-ph-ec.qmd">Salinity / pH / EC Methods</a></h3>
+    <p>Rapid screening methods for salinity, acidity, and related chemical conditions.</p>
+  </div>
+  <div class="tool-card">
+    <img src="../images/tools/macrofauna-image.png" alt="Macrofauna observation" class="card-thumb">
+    <h3><a href="macrofauna.qmd">Macrofauna Observation</a></h3>
+    <p>Observation-based assessment of earthworms and other visible soil fauna.</p>
+  </div>
+</div>
+
+## Laboratory and detailed assessment methods
+
+<div class="tool-grid">
+  <div class="tool-card">
+    <img src="../images/tools/record-sheet.png" alt="Standard laboratory analysis" class="card-thumb">
+    <h3><a href="lab-analysis.qmd">Standard Soil Laboratory Analysis</a></h3>
+    <p>Reference measurements for key soil physicochemical variables.</p>
+  </div>
+  <div class="tool-card">
+    <img src="../images/tools/record-sheet.png" alt="Bulk density" class="card-thumb">
+    <h3><a href="bulk-density.qmd">Bulk Density Sampling</a></h3>
+    <p>Sampling approach that supports structure, compaction, and stock-related assessment.</p>
+  </div>
+  <div class="tool-card">
+    <img src="../images/tools/digit-soil-reader.png" alt="SEAR or Digit Soil" class="card-thumb">
+    <h3><a href="sear.qmd">SEAR / Digit Soil</a></h3>
+    <p>Rapid measurement of extracellular enzyme activity linked to soil biological functioning.</p>
+  </div>
+  <div class="tool-card">
+    <img src="../images/tools/microbiometer-kit.png" alt="MicroBIOMETER" class="card-thumb">
+    <h3><a href="microbiometer.qmd">MicroBIOMETER</a></h3>
+    <p>Kit-based method for estimating microbial biomass and fungal/bacterial balance.</p>
+  </div>
+  <div class="tool-card">
+    <img src="../images/tools/toolbox-collage.png" alt="eDNA or metabarcoding" class="card-thumb">
+    <h3><a href="edna.qmd">eDNA / Metabarcoding</a></h3>
+    <p>DNA-based workflow for soil biodiversity and biological community assessment.</p>
+  </div>
+</div>
+
+## How to use this catalogue
+
+Each tool page explains:
+
+- what the tool is,
+- why a user would use it,
+- where it is used,
+- which target variables it addresses,
+- which soil health descriptors it supports,
+- and what kind of output a user can expect.

@@ -1,21 +1,62 @@
 ---
-title: "Supporting Data Layer"
+title: "Soil Health Data Cube"
 ---
 
-The toolbox is supported by a broader digital data and visualisation layer that provides contextual information, mapped layers, and comparison services.
+![](../images/digital/shdc-cover.png){.tool-photo width="72%" fig-alt="Soil Health Data Cube cover image"}
 
-| Item | Description |
-|---|---|
-| **What it is** | A horizontal service that supports the toolbox with data, layers, and visualisation. |
-| **Main purpose** | To place local observations into a broader spatial and analytical context. |
-| **Where used** | Digital |
-| **Typical users** | Advisors, researchers, environmental professionals, public authorities, advanced users |
-| **Typical outputs** | Maps, contextual layers, comparison support, background information |
+<div class="badge-row">
+  <span class="badge">Digital service</span>
+  <span class="badge">Spatial context</span>
+  <span class="badge">Supporting layer</span>
+</div>
 
-## Why it matters
+The Soil Health Data Cube is a supporting digital service that provides contextual maps, background layers, and wider spatial information for the AI4SoilHealth Toolbox.
 
-Users often need more than one measurement. They also need to know how a site sits within a broader spatial context. The supporting data layer helps with that task.
+It is not the toolbox itself. Instead, it acts as a **supporting layer** that helps users place local observations and measurements into a broader context.
 
-## Communication note
+## What is it for?
 
-For end-user communication, it is usually best to present this as a **supporting or horizontal service** that powers part of the toolbox, rather than as the toolbox itself.
+A user would use the Soil Health Data Cube to:
+
+- view background spatial information relevant to soil health,
+- compare local observations with wider patterns,
+- explore contextual layers and mapped variables,
+- support interpretation of field or laboratory findings,
+- and access broader digital information linked to soil condition and change over time.
+
+## How is it presented publicly?
+
+The main AI4SoilHealth website describes the Soil Health Data Cube as a unified, decision-ready format that integrates soil, climate, and vegetation information to support sustainable soil management across Europe. ([Soil health data cube](https://ai4soilhealth.eu/soil-health-data-cube/))
+
+The SHDC technical site presents it as a pan-European data platform available through open-data services such as S3 and STAC, and as a computing engine that other applications can build upon. ([SHDC welcome page](https://shdc.ai4soilhealth.eu/); [SHDC specifications](https://shdc.ai4soilhealth.eu/1-specifications.html))
+
+## Where is it used?
+
+**Digital environment**
+
+The Data Cube is used through digital interfaces and supporting services rather than as a physical field tool.
+
+## What kind of information does it provide?
+
+Public SHDC pages explain that the Data Cube integrates large collections of soil, climate, vegetation, terrain, crop, and degradation-related layers into a single digital environment. ([SHDC welcome page](https://shdc.ai4soilhealth.eu/); [Available layers](https://shdc.ai4soilhealth.eu/2-layers.html))
+
+For an end-user, this means access to:
+
+- mapped soil-relevant variables,
+- wider environmental context,
+- comparisons across areas,
+- and support for interpreting local observations in a broader spatial setting.
+
+## Useful links
+
+- [Project page about the Soil Health Data Cube](https://ai4soilhealth.eu/soil-health-data-cube/)
+- [Soil Health Data Cube technical site](https://shdc.ai4soilhealth.eu/)
+- [Project repositories](https://github.com/AI4SoilHealth)
+
+## Practical note
+
+The Soil Health Data Cube should be understood as a **supporting digital service** within the wider toolbox environment. It strengthens interpretation, but it is not a replacement for field methods or laboratory analysis.
+
+::: {.note-box}
+Use the Soil Health Data Cube when you want to place local observations or measurements into a wider spatial and digital context.
+:::

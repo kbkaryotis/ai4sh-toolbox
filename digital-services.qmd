@@ -2,46 +2,65 @@
 title: "Digital Services"
 ---
 
-Digital services are the layer that connects measurements, observations, contextual information, and outputs.
+![](images/digital/ai4sh-app-scheme.png){.tool-photo width="85%" fig-alt="AI4SoilHealth app and service architecture"}
 
-## AI4SoilHealth App
+The AI4SoilHealth Toolbox includes not only field and laboratory methods, but also digital services that help users record, organise, visualise, and interpret soil health information.
 
-The app provides a user-facing environment for viewing, storing, and interacting with soil-health information.
+These services support the practical use of the toolbox by connecting local measurements with broader digital workflows.
 
-![](images/digital/app-architecture.png){.tool-photo width="85%" fig-alt="General architecture of the AI4SoilHealth app"}
+## Why digital services matter
 
-Key roles of the app include:
+Digital services make it easier to:
 
-- combining contextual layers with local information,
-- supporting field data entry,
-- storing observations and uploaded information,
-- and connecting users with visual outputs.
+- organise soil health information,
+- link observations to location,
+- compare records,
+- visualise data,
+- produce user-friendly outputs,
+- and combine local evidence with broader spatial context.
 
-## Field data collection modules
+## Main digital components
 
-These modules support geolocated recording of:
+### AI4SoilHealth App
 
-- field observations,
-- sample locations,
-- photos,
-- and selected measured variables.
+The app is the main user-facing digital environment of the toolbox. Public AI4SoilHealth materials describe it as a way to connect field observations, laboratory information, and wider spatial context. The SHDC documentation also presents the app architecture as a system linking Tier 1 Data Cube information, Tier 2 field measurements, and Tier 3 laboratory data. ([AI4SoilHealth home](https://ai4soilhealth.eu/); [SHDC specifications](https://shdc.ai4soilhealth.eu/1-specifications.html))
 
-## Dashboard and visualisation interface
+### Geolocated field data collection
 
-The dashboard helps users inspect maps, tables, and site-level information.
+This function helps users create records linked to specific places. It can support observations, measurements, sensor information, and images.
 
-![](images/digital/app-home.png){.tool-photo width="82%" fig-alt="Home page of the AI4SoilHealth application"}
+### Visualisation interface
 
-![](images/digital/app-data-table.png){.tool-photo width="82%" fig-alt="Example of a data-table view in the AI4SoilHealth application"}
+Digital visualisation helps users explore information through maps, charts, tables, and filtered views.
 
-## Reporting outputs
+### Reporting and soil health cards
 
-The digital toolbox can support the creation of user-facing summaries, including soil-health cards and related reporting outputs.
+The digital environment can also help turn data into more readable outputs that are easier to communicate and share.
 
-## Supporting data layer
+### Supporting spatial and contextual service
 
-The toolbox is supported by a broader digital data and visualisation environment. This background layer helps users place local observations into a wider context by providing maps, layers, and comparative information.
+The Soil Health Data Cube provides a broader digital context that helps users interpret local observations and measurements.
+
+## Wider digital ecosystem
+
+The official AI4SoilHealth and SHDC sites also point users to a wider ecosystem of digital resources, including:
+
+- the main project website,
+- the Soil Health Data Cube interface and technical documentation,
+- project repositories on GitHub,
+- videos and webinars on YouTube,
+- and public communications through LinkedIn, X/Twitter, and Bluesky. ([AI4SoilHealth home](https://ai4soilhealth.eu/); [SHDC welcome page](https://shdc.ai4soilhealth.eu/))
+
+## What users can gain from the digital environment
+
+By using the digital services, users may be able to:
+
+- keep records more systematically,
+- combine measurements and observations,
+- visualise results more clearly,
+- connect local issues with a wider context,
+- and generate outputs that are easier to use in communication and decision processes.
 
 ::: {.note-box}
-For communication purposes, it is useful to present this supporting data environment as a **horizontal or enabling service** that helps power the toolbox, rather than as the toolbox itself.
+Think of the digital services as the part of the toolbox that helps users turn measurements and observations into usable information.
 :::

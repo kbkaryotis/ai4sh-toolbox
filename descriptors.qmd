@@ -2,41 +2,105 @@
 title: "Soil Health Descriptors"
 ---
 
-This page helps users start from the **soil-health issue of interest** rather than from the tool itself.
+Soil health cannot be described by a single number or a single measurement. Different tools help users assess different parts of the soil system.
 
-## Descriptor groups supported by the toolbox
+This page starts from the **soil health issue** rather than from the tool. It helps users understand which parts of the toolbox may be relevant for different assessment needs.
 
-### Salinity and chemical imbalance
-Relevant tools include salinity / pH / EC methods, multi-parameter field sensors, standard laboratory analysis, and supporting digital comparison tools.
+## Salinisation
 
-### Soil organic carbon and soil condition
-Relevant tools include spectroscopy, standard laboratory analysis, bulk density sampling, and digital comparison/reporting tools.
+Salinisation refers to the accumulation of salts in the soil. It can reduce plant performance, affect soil structure, and limit water uptake.
 
-### Soil structure and compaction
-Relevant tools include VESS, aggregate stability methods, bulk density sampling, infiltration testing, and selected field sensors.
+### Relevant toolbox components
+- Salinity / pH / EC methods
+- Penetrometer or in-situ chemical screening methods
+- Standard laboratory soil analysis
+- Supporting digital layers and contextual interpretation
 
-### Nutrient-related variables
-Relevant tools include standard laboratory analysis, field pH/EC/salinity methods, and multi-parameter field probes.
+## Soil organic carbon decline
 
-### Water behaviour and reduced water retention
-Relevant tools include infiltration testing, structure-related tools, moisture-related sensors, and contextual digital layers.
+Soil organic carbon is a key part of soil fertility, structure, and long-term functioning. A decline in soil organic carbon can weaken the soil system over time.
 
-### Biodiversity and biological functioning
-Relevant tools include eDNA/metabarcoding, macrofauna and earthworm observation, MicroBIOMETER, and enzymatic activity methods.
+### Relevant toolbox components
+- Standard laboratory soil analysis
+- Soil spectroscopy
+- Bulk density sampling
+- Supporting digital context and mapped interpretation
 
-## Quick mapping: descriptor to tools
+## Compaction and poor soil structure
 
-| Descriptor / issue | Useful toolbox components |
-|---|---|
-| Salinity | Salinity / pH / EC methods, field probes, lab analysis, app and dashboard |
-| Soil organic carbon | Spectroscopy, lab analysis, bulk density sampling, digital comparison |
-| Structure | VESS, aggregate stability, infiltration testing, visual records |
-| Compaction | Bulk density sampling, VESS, selected in-field probes |
-| Nutrient status | Lab analysis, pH/EC methods, field probes |
-| Water retention / behaviour | Infiltration testing, structure methods, moisture-related tools |
-| Biodiversity | eDNA, macrofauna observation, MicroBIOMETER, enzymatic activity |
-| Biological functioning | Enzymatic activity, eDNA, macrofauna, MicroBIOMETER |
+Compaction and poor structure can restrict rooting, reduce aeration, affect infiltration, and weaken soil function.
 
-## Practical note
+### Relevant toolbox components
+- VESS
+- Bulk density sampling
+- Infiltration testing
+- Aggregate stability methods
+- Supporting structural interpretation through the digital environment
 
-Not every descriptor is assessed with the same level of maturity or simplicity. Some methods are easier to deploy broadly, while others are more specialised and may require laboratory support or expert interpretation.
+## Nutrient imbalance
+
+Nutrient imbalance may include deficiency, excess, or poor nutrient cycling. It affects crop performance and broader soil functioning.
+
+### Relevant toolbox components
+- Standard laboratory soil analysis
+- Salinity / pH / EC methods
+- Penetrometer or in-situ chemical screening methods
+- SEAR / Digit Soil
+- Soil spectroscopy
+
+## Reduced water infiltration or water-related soil constraints
+
+Water entry and movement through soil are strongly linked to soil structure, porosity, and surface condition.
+
+### Relevant toolbox components
+- Infiltration testing
+- Aggregate stability methods
+- VESS
+- Bulk density sampling
+- Supporting digital layers for environmental context
+
+## Acidification
+
+Acidification affects nutrient availability, biological activity, and overall soil condition.
+
+### Relevant toolbox components
+- Salinity / pH / EC methods
+- Standard laboratory soil analysis
+- Soil spectroscopy
+- Supporting interpretation through digital services
+
+## Contamination-related concerns
+
+Some soil health concerns relate to unwanted chemical substances or harmful accumulations that affect soil use, ecology, or safety.
+
+### Relevant toolbox components
+- Standard laboratory soil analysis
+- Supporting digital context and mapped interpretation
+- Combined field, lab, and reporting workflows
+
+## Soil biodiversity and biological functioning
+
+The living part of soil is essential for nutrient cycling, decomposition, resilience, and ecosystem functioning. Public AI4SoilHealth pages repeatedly highlight biodiversity, soil enzymes, and biological indicators as central to the future of soil monitoring. ([AI4SoilHealth home](https://ai4soilhealth.eu/); [Are soil enzymes the secret to the future of farming?](https://ai4soilhealth.eu/are-soil-enzymes-the-secret-to-the-future-of-farming/))
+
+### Relevant toolbox components
+- eDNA / metabarcoding
+- MicroBIOMETER
+- SEAR / Digit Soil
+- Macrofauna observation
+- Supporting interpretation through the digital environment
+
+## One descriptor, multiple tools
+
+In practice, a single soil health issue is often assessed using more than one method.
+
+For example:
+
+- **compaction** may require visual, quantitative, and hydraulic information,
+- **soil biodiversity** may require both visible and molecular indicators,
+- **nutrient imbalance** may need both chemical measurements and biological interpretation.
+
+That is why the toolbox combines field methods, laboratory approaches, digital tools, and supporting services rather than relying on one method alone.
+
+::: {.note-box}
+Start from the soil health issue you want to understand. Then choose the tools that best match that question.
+:::

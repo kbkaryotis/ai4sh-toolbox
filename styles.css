@@ -1,88 +1,184 @@
+body {
+  line-height: 1.7;
+}
+
+main.content {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
 .hero {
-  padding: 2rem 0 1rem 0;
+  text-align: center;
+  padding: 2.2rem 1rem 1rem 1rem;
+  margin-bottom: 1.5rem;
 }
+
 .hero h1 {
-  font-size: 2.6rem;
+  font-size: 2.5rem;
+  margin-bottom: 0.75rem;
   font-weight: 700;
-  margin-bottom: 0.6rem;
 }
-.hero p.lead {
-  font-size: 1.2rem;
-  color: #475467;
-  max-width: 850px;
+
+.lead {
+  font-size: 1.18rem;
+  max-width: 900px;
+  margin: 0 auto;
+  color: #4a4a4a;
 }
-.section-intro {
-  font-size: 1.05rem;
-  color: #475467;
+
+.logo-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+  margin: 1rem 0 1.5rem 0;
 }
+
+.logo-row img {
+  max-height: 70px;
+  width: auto;
+}
+
+.tool-photo {
+  display: block;
+  margin: 1.4rem auto 2rem auto;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.page-intro {
+  font-size: 1.08rem;
+  color: #444;
+  margin-bottom: 1rem;
+}
+
 .tool-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 1rem;
-  margin: 1rem 0 2rem 0;
+  gap: 1.2rem;
+  margin: 1.25rem 0 2rem 0;
 }
+
 .tool-card {
-  border: 1px solid #d0d5dd;
+  background: #ffffff;
+  border: 1px solid #e6e6e6;
   border-radius: 14px;
-  padding: 1rem;
-  background: #fff;
-  box-shadow: 0 1px 3px rgba(16, 24, 40, 0.08);
+  padding: 1.2rem;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.04);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
+
+.tool-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 18px rgba(0,0,0,0.08);
+}
+
 .tool-card h3 {
   margin-top: 0;
-  margin-bottom: 0.4rem;
-  font-size: 1.15rem;
+  margin-bottom: 0.6rem;
+  font-size: 1.08rem;
 }
+
+.tool-card p {
+  margin-bottom: 0;
+  color: #555;
+}
+
+.card-thumb {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 0.9rem;
+}
+
 .kpi-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 0.75rem;
-  margin: 1rem 0 1.5rem 0;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.6rem 0 2rem 0;
 }
+
 .kpi {
-  border-left: 4px solid #799154;
-  background: #f8fafc;
-  padding: 0.9rem 1rem;
-  border-radius: 8px;
+  background: #f7faf8;
+  border-left: 4px solid #5a8f6a;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.03);
 }
-.label {
-  display: inline-block;
-  padding: 0.18rem 0.55rem;
-  border-radius: 999px;
-  background: #eef2ff;
-  font-size: 0.86rem;
-  margin-right: 0.35rem;
-  margin-bottom: 0.25rem;
-}
+
 .note-box {
-  background: #f7f9f4;
-  border: 1px solid #d8e1cd;
-  border-radius: 12px;
-  padding: 1rem 1.1rem;
-  margin: 1rem 0;
+  background: #f4f8fb;
+  border-left: 4px solid #3a7ca5;
+  padding: 1rem 1.2rem;
+  border-radius: 8px;
+  margin: 1.5rem 0;
 }
-.tool-meta {
+
+.badge-row {
+  margin: 1rem 0 1.2rem 0;
+}
+
+.badge {
+  display: inline-block;
+  background: #eef4ef;
+  color: #355c3b;
+  border: 1px solid #d8e5da;
+  border-radius: 999px;
+  padding: 0.3rem 0.7rem;
+  margin: 0.2rem 0.3rem 0.2rem 0;
+  font-size: 0.9rem;
+}
+
+.quick-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin: 1rem 0 1.2rem 0;
+}
+
+.quick-links a {
+  display: inline-block;
+  padding: 0.55rem 0.9rem;
+  border-radius: 999px;
+  background: #eef4ef;
+  border: 1px solid #d8e5da;
+  text-decoration: none;
+}
+
+.link-list li {
+  margin-bottom: 0.4rem;
+}
+
+table {
   width: 100%;
   border-collapse: collapse;
-  margin: 1rem 0 1.5rem 0;
+  margin: 1.2rem 0 2rem 0;
 }
-.tool-meta th,
-.tool-meta td {
-  border: 1px solid #e4e7ec;
-  padding: 0.65rem 0.75rem;
-  vertical-align: top;
+
+table th,
+table td {
+  padding: 0.7rem;
+  border: 1px solid #ddd;
 }
-.tool-meta th {
-  width: 220px;
-  background: #f8fafc;
+
+table th {
+  background: #f6f6f6;
   text-align: left;
 }
-img.tool-photo {
-  border: 1px solid #e4e7ec;
-  border-radius: 12px;
-  background: white;
-  padding: 4px;
+
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
 }
-.summary-table th, .summary-table td {
-  font-size: 0.95rem;
+
+h3 {
+  margin-top: 1.4rem;
+  margin-bottom: 0.6rem;
 }

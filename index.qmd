@@ -4,79 +4,117 @@ page-layout: full
 ---
 
 ::: {.hero}
+![](images/logo-ai4sh-wordmark.png){width="280" fig-alt="AI4SoilHealth wordmark"}
+
 # A practical toolbox for soil health assessment and monitoring
 
 ::: {.lead}
-The AI4SoilHealth Toolbox is a user-oriented collection of field methods, laboratory approaches, digital tools, and supporting data services that help users observe, assess, interpret, and communicate soil health.
+The AI4SoilHealth Toolbox brings together field methods, laboratory approaches, digital tools, and supporting data services to help users assess soil health in a practical and structured way.
 :::
 :::
 
-![](images/tools/toolbox-collage.png){.tool-photo width="85%" fig-alt="Collage of selected toolbox components"}
+<div class="logo-row">
+  <img src="images/logo-ai4sh-icon.png" alt="AI4SoilHealth icon logo">
+  <img src="images/soil-deal-europe.png" alt="Soil Deal for Europe logo">
+</div>
 
-## What users can do with the toolbox
+![](images/tools/toolbox-collage.png){.tool-photo width="84%" fig-alt="Overview collage of selected toolbox components"}
+
+## What the toolbox helps users do
 
 ::: {.kpi-grid}
 ::: {.kpi}
-**Assess multiple soil health descriptors**  
-Use targeted methods for salinity, soil organic carbon, structure, nutrient status, water behaviour, and biodiversity.
+**Measure relevant soil variables**  
+Use a range of methods to assess soil properties linked to salinity, soil organic carbon, structure, nutrient status, water behaviour, and biodiversity.
 :::
 ::: {.kpi}
 **Combine field, lab, and digital information**  
-Move from direct measurements and observations to maps, records, and reports.
+Move from observations and measurements to mapped information, records, and user-friendly outputs.
 :::
 ::: {.kpi}
-**Choose methods that fit the use case**  
-Some tools support rapid screening, while others provide more detailed or reference-style assessment.
+**Choose methods that fit the situation**  
+Select between rapid field screening, laboratory approaches, and digital services depending on the assessment need.
 :::
 ::: {.kpi}
-**Generate usable outputs**  
-View maps, track observations, compare sites, and produce soil-health summaries.
+**Support interpretation and communication**  
+Use the toolbox to understand soil condition, identify possible constraints, and communicate results more clearly.
 :::
 :::
 
-## Who the toolbox is for
+## Part of the wider AI4SoilHealth project
 
-The toolbox is designed for a broad range of users, including farmers, land managers, advisors, researchers, environmental professionals, and public authorities. Different users may rely on different parts of the toolbox. Some will focus on rapid in-field methods, while others will combine field sampling with laboratory analysis and digital interpretation.
+AI4SoilHealth is a European project focused on improving how soil health is measured, monitored, and understood. Public-facing project pages describe its aim as helping farmers and land managers with new tools to measure soil health, including approaches that do not always require conventional laboratory workflows, while also building digital services such as the Soil Health Data Cube. ([AI4SoilHealth project](https://ai4soilhealth.eu/))
 
-## The toolbox at a glance
+This toolbox site focuses on the **user-facing toolbox**: the practical methods, digital functions, and supporting services that users may rely on when working on soil health assessment and monitoring.
+
+## What is inside the toolbox
+
+The toolbox combines four complementary elements:
+
+1. **Field tools and rapid assessment methods**  
+   Methods that can be used directly in the field or close to the field.
+
+2. **Laboratory approaches**  
+   Methods that provide more detailed or confirmatory soil analysis.
+
+3. **Digital tools**  
+   Tools for recording, visualising, organising, and communicating soil health information.
+
+4. **Supporting data services**  
+   Background layers and contextual information that help users interpret local observations.
+
+## Who it is for
+
+The toolbox is designed for users who need practical ways to assess or monitor soil health, including:
+
+- farmers and growers,
+- land managers,
+- advisors and consultants,
+- researchers,
+- environmental professionals,
+- and public authorities.
+
+## Featured toolbox components
 
 <div class="tool-grid">
   <div class="tool-card">
-    <h3><a href="tools/index.qmd">Tool catalogue</a></h3>
-    <p>Browse the individual tools, what they measure, and how they support soil health assessment.</p>
+    <img src="images/digital/app-home.png" alt="AI4SoilHealth app" class="card-thumb">
+    <h3><a href="tools/ai4sh-app.qmd">AI4SoilHealth App</a></h3>
+    <p>Main digital environment for recording, visualising, and organising soil health information.</p>
   </div>
   <div class="tool-card">
-    <h3><a href="descriptors.qmd">Descriptors</a></h3>
-    <p>Start from the soil issue you care about and see which tools can help assess it.</p>
+    <img src="images/digital/shdc-cover.png" alt="Soil Health Data Cube" class="card-thumb">
+    <h3><a href="tools/data-cube.qmd">Soil Health Data Cube</a></h3>
+    <p>Supporting digital service that provides spatial context, layers, and wider environmental information.</p>
   </div>
   <div class="tool-card">
-    <h3><a href="workflow.qmd">How it works</a></h3>
-    <p>Follow a step-by-step user workflow from question to measurement, interpretation, and reporting.</p>
-  </div>
-  <div class="tool-card">
-    <h3><a href="digital-services.qmd">Digital services</a></h3>
-    <p>Explore the app, dashboard, field-data modules, reports, and the supporting data layer.</p>
+    <img src="images/tools/digit-soil-reader.png" alt="SEAR or Digit Soil tool" class="card-thumb">
+    <h3><a href="tools/sear.qmd">SEAR / Digit Soil</a></h3>
+    <p>Biological assessment tool focused on extracellular enzyme activity and soil functioning.</p>
   </div>
 </div>
 
-## What is included in the toolbox
+## Start exploring
 
-The toolbox brings together three complementary layers:
-
-1. **Field tools and methods** for direct observations and rapid measurements.
-2. **Laboratory approaches** for deeper analysis and validation.
-3. **Digital tools and services** for data entry, visualisation, comparison, and reporting.
+<div class="tool-grid">
+  <div class="tool-card">
+    <h3><a href="about.qmd">About the Toolbox</a></h3>
+    <p>Understand the scope, purpose, and structure of the AI4SoilHealth Toolbox.</p>
+  </div>
+  <div class="tool-card">
+    <h3><a href="tools/index.qmd">Browse the Tools</a></h3>
+    <p>Explore the individual tools, methods, and digital services included in the toolbox.</p>
+  </div>
+  <div class="tool-card">
+    <h3><a href="descriptors.qmd">Soil Health Descriptors</a></h3>
+    <p>Start from the soil issue you want to assess and see which tools can support it.</p>
+  </div>
+  <div class="tool-card">
+    <h3><a href="workflow.qmd">How it Works</a></h3>
+    <p>Follow a simple workflow from question to measurement, interpretation, and output.</p>
+  </div>
+</div>
 
 ::: {.note-box}
-The toolbox is supported by a broader digital data environment. This supporting layer provides contextual maps, background information, and visualisation services, but it is not the same thing as the toolbox itself.
+The AI4SoilHealth Toolbox is not a single instrument or a single app. It is a combination of methods, tools, and services that can be used together to support soil health assessment and monitoring.
 :::
-
-## Suggested first build priorities
-
-For a first public release, the most important content is:
-
-- a clear toolbox definition,
-- a well-structured catalogue of tools,
-- a descriptor-to-tool mapping,
-- a simple user workflow,
-- and a clear explanation of the digital services around the toolbox.

@@ -1,39 +1,84 @@
 ---
-title: "What is the AI4SoilHealth Toolbox?"
+title: "About the Toolbox"
 ---
 
-The AI4SoilHealth Toolbox is a practical end-user environment for soil health assessment and monitoring. It combines **measurement methods**, **supporting equipment**, **digital workflows**, and **reporting functions** so that users can move from a soil-health question to a usable result.
+The AI4SoilHealth Toolbox is a practical collection of methods, tools, and digital services that support soil health assessment and monitoring.
 
-## Scope
+It is designed to help users move from a **soil health question** to a **usable result**. Depending on the use case, this may involve a field observation, a rapid screening method, a laboratory analysis, a digital record, a map, or a report.
 
-The toolbox supports soil health assessment across several themes, including:
+## About the wider project
 
-- salinity and soil chemical condition,
-- soil organic carbon and broader soil fertility,
-- soil structure and compaction,
-- infiltration and water behaviour,
-- nutrient-related variables,
-- biological activity and biodiversity,
-- and field-to-digital recording and interpretation.
+AI4SoilHealth presents itself publicly as a European initiative working to improve how soil health is measured and understood, with a strong emphasis on practical tools for farmers and land managers, a robust indicator framework, testing on pilot sites, and the Soil Health Data Cube. ([AI4SoilHealth home](https://ai4soilhealth.eu/); [Our work](https://ai4soilhealth.eu/our-work-new/))
+
+Public project pages explain that the wider aim is to support better soil health management by combining new measurement tools, artificial intelligence, and pilot-based testing in real-world environments. ([About AI4SoilHealth](https://ai4soilhealth.eu/about/))
+
+## What is the purpose of the toolbox?
+
+The toolbox helps users:
+
+- assess relevant soil variables,
+- choose suitable methods for different soil health questions,
+- record and organise results,
+- combine local observations with digital information,
+- and communicate soil health findings more clearly.
+
+## What does the toolbox include?
+
+The toolbox includes three main layers of content.
+
+### 1. Field and rapid-assessment tools
+
+These are tools and methods that can be used directly in the field or close to the field. They help users obtain rapid information on soil condition, structure, infiltration, salinity, or visible biological indicators.
+
+Examples include:
+
+- visual structure assessment,
+- infiltration testing,
+- salinity and pH screening,
+- rapid spectroscopy,
+- aggregate stability assessment,
+- and macrofauna observation.
+
+### 2. Laboratory approaches
+
+These methods provide more detailed or confirmatory analysis. They are especially useful when users need stronger analytical support, more precise measurements, or biological and molecular information.
+
+Examples include:
+
+- standard soil laboratory analysis,
+- eDNA / metabarcoding,
+- enzymatic activity measurement,
+- microbial kits,
+- and bulk density analysis.
+
+### 3. Digital tools and supporting services
+
+These tools help users store, visualise, compare, and communicate soil health information.
+
+Examples include:
+
+- the AI4SoilHealth app,
+- geolocated field data collection,
+- visualisation interfaces,
+- reporting functions such as soil health cards,
+- and supporting digital layers that provide spatial context.
 
 ## What the toolbox is not
 
-The toolbox should not be understood as a single instrument or one standalone app. It is a **collection of complementary components** that work together.
+The toolbox should not be understood as:
 
-## Main layers of the toolbox
+- a single handheld instrument,
+- a single laboratory protocol,
+- a stand-alone advisory engine,
+- or only a map platform.
 
-### 1. Field and rapid-assessment tools
-These include methods and instruments that can be used directly in the field or close to the field, such as spectroscopy, infiltration tests, visual structure assessments, salinity and pH screening, and biological observation methods.
+Instead, it is a **modular environment**. Users can combine different components depending on their needs, scale of work, and available resources.
 
-### 2. Laboratory methods
-These include more detailed analyses such as standard laboratory soil analysis, eDNA/metabarcoding, enzymatic activity measurements, and reference measurements used to support interpretation and validation.
+## How does the supporting data layer fit in?
 
-### 3. Digital services
-These include the AI4SoilHealth app, geolocated data-entry modules, visualisation interfaces, and reporting outputs such as soil-health summaries and cards.
+The toolbox is supported by a broader digital data environment that provides contextual maps, background layers, and visualisation services. The public Soil Health Data Cube pages describe this as a pan-European data service that brings together soil, climate, vegetation, and related layers into a decision-ready format. ([Soil health data cube](https://ai4soilhealth.eu/soil-health-data-cube/); [SHDC welcome page](https://shdc.ai4soilhealth.eu/))
 
-## Why this matters to end-users
-
-Different users do not need the same level of complexity. A farmer may need a fast view of a few priority variables and a simple report. A researcher or advisor may need a combination of field tools, laboratory methods, and contextual mapping. The toolbox is intended to support both kinds of use by linking methods to clear outputs.
+This data environment supports the toolbox, but it is **not the toolbox itself**.
 
 ## Typical user questions
 
@@ -41,6 +86,12 @@ Users may approach the toolbox with questions such as:
 
 - Is this soil showing signs of salinity or nutrient imbalance?
 - How can I assess soil structure and infiltration in the field?
-- Which tools can help me look at biodiversity or biological functioning?
+- Which methods are useful for soil biological assessment?
+- When is a rapid method enough, and when is laboratory analysis needed?
 - How can I combine local observations with digital layers and visual outputs?
-- What is the most appropriate tool for a rapid assessment, and what requires laboratory support?
+
+## Why this matters
+
+Public AI4SoilHealth pages highlight that a large share of European soils are considered unhealthy and that better measurement is essential if land managers and policymakers are to act with more confidence. ([About AI4SoilHealth](https://ai4soilhealth.eu/about/))
+
+The value of the toolbox lies in helping users combine different methods and services in a more structured, transparent, and usable way.

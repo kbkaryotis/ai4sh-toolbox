@@ -1,0 +1,42 @@
+---
+title: "Resources"
+---
+
+This page collects useful external resources from the wider AI4SoilHealth ecosystem.
+
+## Official websites
+
+- [AI4SoilHealth main website](https://ai4soilhealth.eu/)
+- [Soil Health Data Cube technical site](https://shdc.ai4soilhealth.eu/)
+
+## Project work pages
+
+The public AI4SoilHealth site presents the project around four main public-facing themes:
+
+- [Novel in-field soil sampling tools](https://ai4soilhealth.eu/novel-in-field-soil-sampling-tools/)
+- [Soil health data cube](https://ai4soilhealth.eu/soil-health-data-cube/)
+- [Robust indicator framework](https://ai4soilhealth.eu/robust-indicator-framework/)
+- [Testing on our pilot sites](https://ai4soilhealth.eu/our-work-new/)
+
+## Data and technical resources
+
+- [SHDC welcome page](https://shdc.ai4soilhealth.eu/)
+- [SHDC specifications](https://shdc.ai4soilhealth.eu/1-specifications.html)
+- [SHDC available layers](https://shdc.ai4soilhealth.eu/2-layers.html)
+- [AI4SoilHealth GitHub organisation](https://github.com/AI4SoilHealth)
+
+## Communication channels
+
+- [X / Twitter](https://twitter.com/AI4SoilHealth)
+- [LinkedIn](https://www.linkedin.com/company/ai-4-soil-health/)
+- [YouTube](https://www.youtube.com/@AI4SoilHealth)
+- [Bluesky](https://bsky.app/profile/ai4soilhealth.bsky.social)
+
+## Contact and updates
+
+- [AI4SoilHealth contact page](https://ai4soilhealth.eu/contact-us/)
+- [News on the main project site](https://ai4soilhealth.eu/)
+
+## Why these resources matter
+
+The toolbox is easier to understand when users can also reach the wider project ecosystem: the main project website for accessible project communication, the SHDC site for technical and spatial-data context, and the public communication channels for updates, events, and explanatory materials.
