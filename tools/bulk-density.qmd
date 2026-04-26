@@ -1,0 +1,26 @@
+---
+title: "Bulk Density Sampling"
+---
+
+Bulk density sampling uses volumetric soil cores or equivalent undisturbed sampling approaches to estimate how much dry soil mass is contained in a given volume.
+
+| Item | Description |
+|---|---|
+| **What it is** | A volumetric sampling method for undisturbed soil. |
+| **Main purpose** | To support structure, compaction, and stock-related interpretation. |
+| **Where used** | Field and laboratory |
+| **Typical users** | Researchers, technicians, advisors |
+| **Typical outputs** | Bulk density values and support for stock calculations |
+
+## Main target variables
+
+- bulk density,
+- support for stock calculations,
+- support for compaction and structure-related interpretation.
+
+## Descriptor groups supported
+
+- compaction,
+- structure,
+- soil organic carbon stock interpretation,
+- and deeper reference assessment.

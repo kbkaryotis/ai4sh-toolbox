@@ -1,0 +1,26 @@
+---
+title: "VESS – Visual Evaluation of Soil Structure"
+---
+
+VESS is a field-based method for visually assessing soil structure quality.
+
+| Item | Description |
+|---|---|
+| **What it is** | A practical visual scoring method for soil structure. |
+| **Main purpose** | To help users judge structural condition in the field. |
+| **Where used** | Field |
+| **Typical users** | Farmers, advisors, field teams |
+| **Typical outputs** | Visual structure score and qualitative field interpretation |
+
+## Main target variables
+
+- structural quality,
+- visible signs of compaction,
+- root and aggregate condition,
+- and practical field interpretation.
+
+## Descriptor groups supported
+
+- structure,
+- compaction,
+- and support for water-behaviour interpretation.

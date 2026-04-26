@@ -1,0 +1,34 @@
+---
+title: "Soil Spectroscopy"
+---
+
+Soil spectroscopy is a rapid, non-destructive method that uses the interaction between light and soil to estimate several soil properties.
+
+![](../images/tools/toolbox-collage.png){.tool-photo width="65%"}
+
+| Item | Description |
+|---|---|
+| **What it is** | A rapid analytical method based on soil reflectance or related optical signals. |
+| **Main purpose** | Fast screening of multiple soil properties from one measurement. |
+| **Where used** | Field and laboratory |
+| **Typical users** | Researchers, advisors, technical field staff |
+| **Typical outputs** | Spectral measurements and predicted property values |
+
+## Main target variables
+
+- soil organic carbon / organic matter,
+- texture-related variables,
+- pH-related variation,
+- moisture-sensitive interpretation,
+- and broader physicochemical screening.
+
+## Descriptor groups supported
+
+- soil organic carbon,
+- nutrient and fertility support,
+- general soil condition,
+- and support for repeated monitoring.
+
+## Why users may choose it
+
+Spectroscopy is attractive when users want a fast, multi-variable measurement approach that can be repeated over time.

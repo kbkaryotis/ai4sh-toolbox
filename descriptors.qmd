@@ -1,0 +1,42 @@
+---
+title: "Soil Health Descriptors"
+---
+
+This page helps users start from the **soil-health issue of interest** rather than from the tool itself.
+
+## Descriptor groups supported by the toolbox
+
+### Salinity and chemical imbalance
+Relevant tools include salinity / pH / EC methods, multi-parameter field sensors, standard laboratory analysis, and supporting digital comparison tools.
+
+### Soil organic carbon and soil condition
+Relevant tools include spectroscopy, standard laboratory analysis, bulk density sampling, and digital comparison/reporting tools.
+
+### Soil structure and compaction
+Relevant tools include VESS, aggregate stability methods, bulk density sampling, infiltration testing, and selected field sensors.
+
+### Nutrient-related variables
+Relevant tools include standard laboratory analysis, field pH/EC/salinity methods, and multi-parameter field probes.
+
+### Water behaviour and reduced water retention
+Relevant tools include infiltration testing, structure-related tools, moisture-related sensors, and contextual digital layers.
+
+### Biodiversity and biological functioning
+Relevant tools include eDNA/metabarcoding, macrofauna and earthworm observation, MicroBIOMETER, and enzymatic activity methods.
+
+## Quick mapping: descriptor to tools
+
+| Descriptor / issue | Useful toolbox components |
+|---|---|
+| Salinity | Salinity / pH / EC methods, field probes, lab analysis, app and dashboard |
+| Soil organic carbon | Spectroscopy, lab analysis, bulk density sampling, digital comparison |
+| Structure | VESS, aggregate stability, infiltration testing, visual records |
+| Compaction | Bulk density sampling, VESS, selected in-field probes |
+| Nutrient status | Lab analysis, pH/EC methods, field probes |
+| Water retention / behaviour | Infiltration testing, structure methods, moisture-related tools |
+| Biodiversity | eDNA, macrofauna observation, MicroBIOMETER, enzymatic activity |
+| Biological functioning | Enzymatic activity, eDNA, macrofauna, MicroBIOMETER |
+
+## Practical note
+
+Not every descriptor is assessed with the same level of maturity or simplicity. Some methods are easier to deploy broadly, while others are more specialised and may require laboratory support or expert interpretation.

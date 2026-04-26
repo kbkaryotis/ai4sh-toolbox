@@ -1,0 +1,56 @@
+---
+title: "How the Toolbox Works"
+---
+
+The toolbox is designed to help users move from a question to a result.
+
+## Step 1 – Define the assessment goal
+Start by identifying the main issue of interest:
+
+- salinity,
+- soil organic carbon,
+- structure and compaction,
+- nutrient status,
+- water behaviour,
+- biodiversity,
+- or a broader soil-health overview.
+
+## Step 2 – Choose the relevant tools
+Select one or more tools that fit the use case:
+
+- **rapid field methods** for quick screening,
+- **lab-supported methods** for deeper analysis,
+- **digital tools** for recording, visualising, and comparing results.
+
+## Step 3 – Collect observations or samples
+Depending on the method, this may involve:
+
+- taking direct in-field measurements,
+- collecting soil samples,
+- recording geolocated observations,
+- capturing images,
+- or preparing material for laboratory analysis.
+
+## Step 4 – Store and structure the information
+Use the digital toolbox components to:
+
+- record field observations,
+- upload or organise lab information,
+- connect data to location,
+- and keep outputs ready for comparison and reporting.
+
+## Step 5 – Interpret the results
+Interpretation can involve:
+
+- direct values from field or lab methods,
+- comparison across plots, fields, or locations,
+- visualisation through maps and dashboards,
+- or summarisation through user-facing outputs.
+
+## Step 6 – Produce user-facing outputs
+Outputs may include:
+
+- site-level observations,
+- tables and charts,
+- mapped context,
+- and summary reports such as soil-health cards.

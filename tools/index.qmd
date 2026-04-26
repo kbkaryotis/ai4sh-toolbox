@@ -1,0 +1,21 @@
+---
+title: "Tool Catalogue"
+---
+
+This catalogue presents the main toolbox components in end-user language. Each entry explains what the tool is, what it is mainly used for, and which soil-health variables or descriptor groups it can support.
+
+<div class="tool-grid">
+  <div class="tool-card"><h3><a href="ai4sh-app.qmd">AI4SoilHealth App</a></h3><p>Digital environment for viewing, storing, and interacting with soil-health information.</p></div>
+  <div class="tool-card"><h3><a href="soil-spectroscopy.qmd">Soil Spectroscopy</a></h3><p>Rapid, non-destructive estimation of several soil properties.</p></div>
+  <div class="tool-card"><h3><a href="lab-analysis.qmd">Standard Soil Laboratory Analysis</a></h3><p>Reference measurements for key physicochemical variables.</p></div>
+  <div class="tool-card"><h3><a href="bulk-density.qmd">Bulk Density Sampling</a></h3><p>Sampling approach to support structure and compaction-related assessment.</p></div>
+  <div class="tool-card"><h3><a href="vess.qmd">VESS</a></h3><p>Visual evaluation of soil structure in the field.</p></div>
+  <div class="tool-card"><h3><a href="aggregate-stability.qmd">Aggregate Stability</a></h3><p>Simple methods for assessing structural stability and slaking behaviour.</p></div>
+  <div class="tool-card"><h3><a href="infiltration.qmd">Infiltration Test</a></h3><p>Field method to assess water entry and related hydraulic behaviour.</p></div>
+  <div class="tool-card"><h3><a href="salinity-ph-ec.qmd">Salinity / pH / EC Methods</a></h3><p>Rapid assessment of chemical condition and salinity-related issues.</p></div>
+  <div class="tool-card"><h3><a href="sear.qmd">SEAR / Digit Soil</a></h3><p>Rapid assessment of extracellular enzymatic activity.</p></div>
+  <div class="tool-card"><h3><a href="microbiometer.qmd">MicroBIOMETER</a></h3><p>Kit-based view of microbial biomass and the fungal/bacterial balance.</p></div>
+  <div class="tool-card"><h3><a href="edna.qmd">eDNA / Metabarcoding</a></h3><p>Laboratory workflow for biodiversity and biological-community analysis.</p></div>
+  <div class="tool-card"><h3><a href="macrofauna.qmd">Macrofauna Observation</a></h3><p>Observation and image-based support for earthworms and soil fauna.</p></div>
+  <div class="tool-card"><h3><a href="data-cube.qmd">Supporting Data Layer</a></h3><p>Horizontal data and visualisation service that supports the toolbox.</p></div>
+</div>

@@ -1,0 +1,30 @@
+---
+title: "eDNA / Metabarcoding"
+---
+
+eDNA and metabarcoding workflows provide a deeper laboratory view of soil biological communities.
+
+| Item | Description |
+|---|---|
+| **What it is** | A laboratory workflow for analysing biological material present in soil. |
+| **Main purpose** | To characterise biodiversity and biological-community composition. |
+| **Where used** | Laboratory |
+| **Typical users** | Researchers, specialist laboratories |
+| **Typical outputs** | Richness, diversity, evenness, and functional-group information |
+
+## Main target variables
+
+- fungal diversity,
+- bacterial diversity,
+- archaeal diversity,
+- and selected functional-group indicators depending on the workflow.
+
+## Descriptor groups supported
+
+- biodiversity,
+- biological functioning,
+- and advanced ecological interpretation.
+
+## Practical note
+
+This is a more specialised toolbox component and is most useful when users need a deeper view of soil biological communities.

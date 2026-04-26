@@ -1,0 +1,46 @@
+---
+title: "What is the AI4SoilHealth Toolbox?"
+---
+
+The AI4SoilHealth Toolbox is a practical end-user environment for soil health assessment and monitoring. It combines **measurement methods**, **supporting equipment**, **digital workflows**, and **reporting functions** so that users can move from a soil-health question to a usable result.
+
+## Scope
+
+The toolbox supports soil health assessment across several themes, including:
+
+- salinity and soil chemical condition,
+- soil organic carbon and broader soil fertility,
+- soil structure and compaction,
+- infiltration and water behaviour,
+- nutrient-related variables,
+- biological activity and biodiversity,
+- and field-to-digital recording and interpretation.
+
+## What the toolbox is not
+
+The toolbox should not be understood as a single instrument or one standalone app. It is a **collection of complementary components** that work together.
+
+## Main layers of the toolbox
+
+### 1. Field and rapid-assessment tools
+These include methods and instruments that can be used directly in the field or close to the field, such as spectroscopy, infiltration tests, visual structure assessments, salinity and pH screening, and biological observation methods.
+
+### 2. Laboratory methods
+These include more detailed analyses such as standard laboratory soil analysis, eDNA/metabarcoding, enzymatic activity measurements, and reference measurements used to support interpretation and validation.
+
+### 3. Digital services
+These include the AI4SoilHealth app, geolocated data-entry modules, visualisation interfaces, and reporting outputs such as soil-health summaries and cards.
+
+## Why this matters to end-users
+
+Different users do not need the same level of complexity. A farmer may need a fast view of a few priority variables and a simple report. A researcher or advisor may need a combination of field tools, laboratory methods, and contextual mapping. The toolbox is intended to support both kinds of use by linking methods to clear outputs.
+
+## Typical user questions
+
+Users may approach the toolbox with questions such as:
+
+- Is this soil showing signs of salinity or nutrient imbalance?
+- How can I assess soil structure and infiltration in the field?
+- Which tools can help me look at biodiversity or biological functioning?
+- How can I combine local observations with digital layers and visual outputs?
+- What is the most appropriate tool for a rapid assessment, and what requires laboratory support?

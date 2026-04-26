@@ -1,0 +1,26 @@
+---
+title: "Aggregate Stability"
+---
+
+Aggregate stability methods assess how well soil aggregates resist breakdown when exposed to water or disturbance.
+
+| Item | Description |
+|---|---|
+| **What it is** | A field or near-field method for assessing the stability of soil aggregates. |
+| **Main purpose** | To support understanding of structure and slaking behaviour. |
+| **Where used** | Field / near-field |
+| **Typical users** | Farmers, advisors, researchers |
+| **Typical outputs** | Aggregate stability score or comparative visual result |
+
+## Main target variables
+
+- aggregate stability,
+- slaking behaviour,
+- structural resistance to breakdown.
+
+## Descriptor groups supported
+
+- structure,
+- water behaviour,
+- erosion-related interpretation,
+- and practical comparison between sites or treatments.

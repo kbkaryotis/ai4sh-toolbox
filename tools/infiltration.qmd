@@ -1,0 +1,28 @@
+---
+title: "Infiltration Test"
+---
+
+Infiltration testing helps users assess how quickly water enters the soil. It is a practical field method for understanding water movement and related structural behaviour.
+
+![](../images/tools/infiltration-field.png){.tool-photo width="45%"}
+
+| Item | Description |
+|---|---|
+| **What it is** | A field method for measuring water entry into soil. |
+| **Main purpose** | To assess infiltration and support interpretation of hydraulic behaviour. |
+| **Where used** | Field |
+| **Typical users** | Farmers, advisors, researchers, field technicians |
+| **Typical outputs** | Infiltration rate and support for broader hydraulic interpretation |
+
+## Main target variables
+
+- infiltration rate,
+- water entry behaviour,
+- support for porosity and hydraulic interpretation.
+
+## Descriptor groups supported
+
+- reduced water retention / water behaviour,
+- structure,
+- compaction support,
+- and practical field comparison.

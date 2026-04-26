@@ -1,0 +1,27 @@
+---
+title: "Salinity / pH / EC Methods"
+---
+
+This toolbox area includes rapid methods and sensors used to screen the chemical condition of soil, especially for salinity-related and acidity-related questions.
+
+| Item | Description |
+|---|---|
+| **What it is** | A group of rapid field or near-field methods for basic soil chemical screening. |
+| **Main purpose** | To assess salinity-related issues and general chemical condition. |
+| **Where used** | Field, near-field, laboratory |
+| **Typical users** | Farmers, advisors, researchers, field teams |
+| **Typical outputs** | pH, EC, salinity/TDS and related screening values |
+
+## Main target variables
+
+- pH,
+- electrical conductivity,
+- salinity / TDS,
+- and related chemical screening variables.
+
+## Descriptor groups supported
+
+- salinity,
+- acidity,
+- nutrient-related screening,
+- and general soil-chemistry interpretation.

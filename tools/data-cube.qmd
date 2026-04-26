@@ -1,0 +1,21 @@
+---
+title: "Supporting Data Layer"
+---
+
+The toolbox is supported by a broader digital data and visualisation layer that provides contextual information, mapped layers, and comparison services.
+
+| Item | Description |
+|---|---|
+| **What it is** | A horizontal service that supports the toolbox with data, layers, and visualisation. |
+| **Main purpose** | To place local observations into a broader spatial and analytical context. |
+| **Where used** | Digital |
+| **Typical users** | Advisors, researchers, environmental professionals, public authorities, advanced users |
+| **Typical outputs** | Maps, contextual layers, comparison support, background information |
+
+## Why it matters
+
+Users often need more than one measurement. They also need to know how a site sits within a broader spatial context. The supporting data layer helps with that task.
+
+## Communication note
+
+For end-user communication, it is usually best to present this as a **supporting or horizontal service** that powers part of the toolbox, rather than as the toolbox itself.

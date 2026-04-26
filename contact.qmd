@@ -1,0 +1,26 @@
+---
+title: "Contact and Contributions"
+---
+
+This starter site is designed for collaborative refinement.
+
+## What partners can help improve
+
+Partners can contribute by:
+
+- reviewing the wording of individual tool pages,
+- adding or replacing photos,
+- refining the list of target variables,
+- clarifying who the most likely end-users are,
+- and improving the practical notes and limitations for each method.
+
+## Priority content requests
+
+The most helpful next contributions are:
+
+1. a preferred image for each tool,
+2. confirmation of the key variables measured by each tool,
+3. feedback on how mature each tool is for end-user communication,
+4. and comments on whether any important toolbox component is still missing.
+
+![](images/contact.png){width="60%" fig-alt="Contact placeholder"}

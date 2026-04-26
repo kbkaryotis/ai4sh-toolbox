@@ -1,0 +1,82 @@
+---
+title: "AI4SoilHealth Toolbox"
+page-layout: full
+---
+
+::: {.hero}
+# A practical toolbox for soil health assessment and monitoring
+
+::: {.lead}
+The AI4SoilHealth Toolbox is a user-oriented collection of field methods, laboratory approaches, digital tools, and supporting data services that help users observe, assess, interpret, and communicate soil health.
+:::
+:::
+
+![](images/tools/toolbox-collage.png){.tool-photo width="85%" fig-alt="Collage of selected toolbox components"}
+
+## What users can do with the toolbox
+
+::: {.kpi-grid}
+::: {.kpi}
+**Assess multiple soil health descriptors**  
+Use targeted methods for salinity, soil organic carbon, structure, nutrient status, water behaviour, and biodiversity.
+:::
+::: {.kpi}
+**Combine field, lab, and digital information**  
+Move from direct measurements and observations to maps, records, and reports.
+:::
+::: {.kpi}
+**Choose methods that fit the use case**  
+Some tools support rapid screening, while others provide more detailed or reference-style assessment.
+:::
+::: {.kpi}
+**Generate usable outputs**  
+View maps, track observations, compare sites, and produce soil-health summaries.
+:::
+:::
+
+## Who the toolbox is for
+
+The toolbox is designed for a broad range of users, including farmers, land managers, advisors, researchers, environmental professionals, and public authorities. Different users may rely on different parts of the toolbox. Some will focus on rapid in-field methods, while others will combine field sampling with laboratory analysis and digital interpretation.
+
+## The toolbox at a glance
+
+<div class="tool-grid">
+  <div class="tool-card">
+    <h3><a href="tools/index.qmd">Tool catalogue</a></h3>
+    <p>Browse the individual tools, what they measure, and how they support soil health assessment.</p>
+  </div>
+  <div class="tool-card">
+    <h3><a href="descriptors.qmd">Descriptors</a></h3>
+    <p>Start from the soil issue you care about and see which tools can help assess it.</p>
+  </div>
+  <div class="tool-card">
+    <h3><a href="workflow.qmd">How it works</a></h3>
+    <p>Follow a step-by-step user workflow from question to measurement, interpretation, and reporting.</p>
+  </div>
+  <div class="tool-card">
+    <h3><a href="digital-services.qmd">Digital services</a></h3>
+    <p>Explore the app, dashboard, field-data modules, reports, and the supporting data layer.</p>
+  </div>
+</div>
+
+## What is included in the toolbox
+
+The toolbox brings together three complementary layers:
+
+1. **Field tools and methods** for direct observations and rapid measurements.
+2. **Laboratory approaches** for deeper analysis and validation.
+3. **Digital tools and services** for data entry, visualisation, comparison, and reporting.
+
+::: {.note-box}
+The toolbox is supported by a broader digital data environment. This supporting layer provides contextual maps, background information, and visualisation services, but it is not the same thing as the toolbox itself.
+:::
+
+## Suggested first build priorities
+
+For a first public release, the most important content is:
+
+- a clear toolbox definition,
+- a well-structured catalogue of tools,
+- a descriptor-to-tool mapping,
+- a simple user workflow,
+- and a clear explanation of the digital services around the toolbox.

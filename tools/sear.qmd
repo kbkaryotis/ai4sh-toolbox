@@ -1,0 +1,31 @@
+---
+title: "SEAR / Digit Soil"
+---
+
+SEAR, developed in the Digit Soil pathway, is a rapid way to assess extracellular enzymatic activity in soil.
+
+![](../images/tools/digit-soil-reader.png){.tool-photo width="55%"}
+
+| Item | Description |
+|---|---|
+| **What it is** | A reader-based method for quantifying selected extracellular enzymatic activities. |
+| **Main purpose** | To provide a practical window into biological activity and functioning. |
+| **Where used** | Laboratory / near-lab / controlled field-support context |
+| **Typical users** | Researchers, technical users, advanced advisory users |
+| **Typical outputs** | Enzymatic activity values for targeted enzyme groups |
+
+## Main target variables
+
+SEAR focuses on several targeted enzyme groups, including:
+
+- β-glucosaminidase,
+- β-glucosidase,
+- phosphatases,
+- β-xylosidase,
+- and leucine aminopeptidase.
+
+## Descriptor groups supported
+
+- biological functioning,
+- nutrient cycling support,
+- and broader soil biological activity.

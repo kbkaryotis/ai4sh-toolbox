@@ -1,0 +1,32 @@
+---
+title: "Standard Soil Laboratory Analysis"
+---
+
+Standard laboratory soil analysis provides the reference layer for many toolbox assessments. It is the most familiar route for measuring key chemical and physical variables in a structured way.
+
+| Item | Description |
+|---|---|
+| **What it is** | A set of established laboratory analyses for core soil variables. |
+| **Main purpose** | To provide reliable measurements for key physicochemical properties. |
+| **Where used** | Laboratory |
+| **Typical users** | Laboratories, researchers, advisors, land managers via service providers |
+| **Typical outputs** | Lab values for soil texture, pH, EC, SOC, nutrients, CEC, and related properties |
+
+## Main target variables
+
+- pH,
+- electrical conductivity,
+- phosphorus,
+- nitrogen,
+- texture fractions,
+- cation exchange capacity,
+- soil organic carbon,
+- and related variables depending on the analysis package.
+
+## Descriptor groups supported
+
+- salinity,
+- nutrient-related variables,
+- soil organic carbon,
+- acidity,
+- and part of the baseline descriptor set used for broader assessment.

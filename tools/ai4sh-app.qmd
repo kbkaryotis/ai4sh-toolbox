@@ -1,0 +1,27 @@
+---
+title: "AI4SoilHealth App"
+---
+
+The AI4SoilHealth App is the main user-facing digital environment around the toolbox. It helps users bring together field observations, uploaded information, contextual layers, and visual outputs.
+
+![](../images/digital/app-architecture.png){.tool-photo width="85%"}
+
+| Item | Description |
+|---|---|
+| **What it is** | A digital interface for interacting with soil-health information. |
+| **Main purpose** | To connect local observations, measurements, and broader contextual information. |
+| **Where used** | Digital |
+| **Typical users** | Farmers, land managers, advisors, researchers, environmental professionals |
+| **Typical outputs** | Maps, observations, records, comparisons, and report-ready summaries |
+
+## What users can do with it
+
+- view available layers and contextual information,
+- store or explore local observations,
+- connect measurements to locations,
+- inspect maps and tables,
+- and support communication through digital outputs.
+
+## Relevant descriptor groups
+
+The app can support all main descriptor groups by acting as the place where information is organised, explored, and presented.
